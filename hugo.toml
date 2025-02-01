@@ -2,4 +2,9 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Blocks'
 
-themes = "themes"
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.116.0" # or whichever version you are using
