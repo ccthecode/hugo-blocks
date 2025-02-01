@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Hugo Blocks'
 
@@ -7,4 +7,4 @@ title = 'Hugo Blocks'
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.116.0" # or whichever version you are using
+  HUGO_VERSION = "0.139.4" # or whichever version you are using
