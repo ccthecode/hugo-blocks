@@ -9,5 +9,5 @@ blocks:
   - type: trio
     title: TRIO
   - type: uno
-    title: Custom UNO block added via CMS
+    title: Create your own with the cms
 ---
