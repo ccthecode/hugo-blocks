@@ -8,4 +8,6 @@ blocks:
     title: DUO
   - type: trio
     title: TRIO
+  - type: uno
+    title: Custom UNO block added via CMS
 ---
